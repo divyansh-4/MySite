@@ -15,7 +15,6 @@ const Prices = () => {
             <p>3 Projects</p>
             <p>Designs</p>
             <Link to="/contact" className="btn">Purhase Now</Link> 
-
         </div>
         <div className="card">
           <h3>-Business-</h3>
